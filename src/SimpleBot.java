@@ -1,3 +1,5 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 package bot;
 
 import java.util.Scanner;
@@ -42,12 +44,12 @@ public class SimpleBot {
             System.out.printf("%d!\n", i);
         }
     }
-    
+
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        
+
         System.out.println("Which of the following statements correctly creates and initializes an array of integers in Java?");
-        
+
         System.out.println("1. int[] numbers = {1, 2, 3, 4, 5};");
         System.out.println("2. int[] numbers = new int[]{1, 2, 3, 4, 5, 6};");
         System.out.println("3. int[] numbers = new int[5]{1, 2, 3, 4, 5};");
@@ -58,7 +60,6 @@ public class SimpleBot {
             String choices = scanner.next();
 
             boolean correctOne = choices.contains("1");
-            // These will be used if you want to check for multiple correct answers
             boolean incorrectTwo = choices.contains("2");
             boolean incorrectThree = choices.contains("3");
             boolean incorrectFour = choices.contains("4");
