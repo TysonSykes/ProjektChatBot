@@ -1,0 +1,24 @@
+<changelist name="Changes" date="1726582625090" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value=".idea/.author_contents_storage_db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/.author_contents_storage_db" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".idea/.author_contents_storage_db-shm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/.author_contents_storage_db-shm" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".idea/.author_contents_storage_db-wal" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/.author_contents_storage_db-wal" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".idea/frameworkLessonHistory/storage.storageData" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageData" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".idea/frameworkLessonHistory/storage.storageRecordIndex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/storage.storageRecordIndex" />
+  </binary>
+</changelist>
